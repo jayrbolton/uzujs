@@ -1,4 +1,4 @@
-# uzu.js
+# :shell: uzu.js
 
 A minimalistic set of tools for creating UIs, mostly for my own benefit.
 
